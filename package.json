@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-CodeWizards/",
+    "build": "vite build --base=/html-css_87_KanterIV/",
     "preview": "vite preview"
   },
   "devDependencies": {
